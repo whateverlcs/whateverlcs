@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center">Welcome to my profile! 😀 </h2>
 
-<!--
-**whateverlcs/whateverlcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img alt="Ecoleta" title="#Logo" src="computer.png" width="200px" />
+</h1>
 
-Here are some ideas to get you started:
+<h4 align="center"> Fullstack developer - HTML, CSS, React, Node, Java, C# and PHP </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+  <b>How to reach me</b> 
+  - <a href="mailto:lucassbatistao22@gmail.com">lucassbatistao22@gmail.com</a>
+</h5>
+
+<h5 align="center">
+  <b>Social Medias</b> 
+</h5>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/"><img alt="linkedin" title="linkedin" src="linkedin.ico" width="20px" height="20px" /></a>
+  <a href="https://www.instagram.com/lucassbtao/"><img alt="instagram" title="instagram" src="instagram.ico" width="20px" height="20px" /></a>
+  <a href="https://twitter.com/whateverlcs"><img alt="twitter" title="twitter" src="twitter.ico" width="20px" height="20px" /></a>
+  <a href="https://www.facebook.com/lucas.batistao.22"><img alt="facebook" title="facebook" src="fb.ico" width="20px" height="20px" /></a>
+</p>
