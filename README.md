@@ -1,10 +1,10 @@
 <h2 align="center">Welcome to my profile! 😀 </h2>
 
 <h1 align="center">
-    <img alt="Ecoleta" title="#Logo" src="computer.png" width="200px" />
+    <img alt="Logo Computador" title="#Logo" src="computer.png" width="200px" />
 </h1>
 
-<h4 align="center"> Fullstack developer - HTML, CSS, React, Node, Java, C# and PHP </h4>
+<h4 align="center"> Backend developer </h4>
 
 <h5 align="center">
   <b>How to reach me</b> 
@@ -18,6 +18,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/"><img alt="linkedin" title="linkedin" src="linkedin.ico" width="20px" height="20px" /></a>
   <a href="https://www.instagram.com/lucassbtao/"><img alt="instagram" title="instagram" src="instagram.ico" width="20px" height="20px" /></a>
-  <a href="https://twitter.com/whateverlcs"><img alt="twitter" title="twitter" src="twitter.ico" width="20px" height="20px" /></a>
   <a href="https://www.facebook.com/lucas.batistao.22"><img alt="facebook" title="facebook" src="fb.ico" width="20px" height="20px" /></a>
 </p>
