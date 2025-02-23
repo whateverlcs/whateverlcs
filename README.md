@@ -7,15 +7,7 @@
 <h4 align="center"> Backend developer </h4>
 
 <h5 align="center">
-  <b>How to reach me</b> 
+  <b>How to reach me:</b> 
   - <a href="mailto:lucassbatistao22@gmail.com">lucassbatistao22@gmail.com</a> or
-    <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/"><img alt="linkedin" title="linkedin" src="linkedin.ico" width="20px" height="20px" /></a>
+    <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/">Linkedin</a>
 </h5>
-
-<h5 align="center">
-  <b>Social Medias</b> 
-</h5>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/"><img alt="linkedin" title="linkedin" src="linkedin.ico" width="20px" height="20px" /></a>
-</p>
