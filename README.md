@@ -8,7 +8,8 @@
 
 <h5 align="center">
   <b>How to reach me</b> 
-  - <a href="mailto:lucassbatistao22@gmail.com">lucassbatistao22@gmail.com</a>
+  - <a href="mailto:lucassbatistao22@gmail.com">lucassbatistao22@gmail.com</a> or
+    <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/"><img alt="linkedin" title="linkedin" src="linkedin.ico" width="20px" height="20px" /></a>
 </h5>
 
 <h5 align="center">
