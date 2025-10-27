@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my profile! 😀 </h2>
 
 <h1 align="center">
-    <img alt="Logo Computador" title="#Logo" src="computer.png" width="200px" />
+    <img alt="Logo Computador" title="#Logo" src="https://github.com/whateverlcs/whateverlcs/blob/ae17ed0ad5f8694327fb5e864d42101083b21855/computer.png" width="200px" />
 </h1>
 
 <h4 align="center"> Backend developer </h4>
