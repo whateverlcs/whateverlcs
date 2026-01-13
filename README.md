@@ -9,5 +9,7 @@
 <h5 align="center">
   <b>How to reach me:</b> 
   - <a href="mailto:lucassbatistao22@gmail.com">lucassbatistao22@gmail.com</a> or
-    <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/lucas-batist%C3%A3o-099693111/">Linkedin</a>.<br><br>
+    <p>If you wanna know more about me, you can check my <a href="https://portfolio-lucas-flax.vercel.app/">Portfolio</a></p>
 </h5>
+
